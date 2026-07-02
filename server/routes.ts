@@ -55,7 +55,7 @@ export async function registerRoutes(app: Express): Promise<Server> {
             for (const file of dirFiles) {
                 files.push({
                   path: file,
-                  category: cat === "healthy" ? "Healthy" : ""
+                  category: cat === "healthy" ? "Healthy" : "Unhealthy"
                 });
             }
           }
