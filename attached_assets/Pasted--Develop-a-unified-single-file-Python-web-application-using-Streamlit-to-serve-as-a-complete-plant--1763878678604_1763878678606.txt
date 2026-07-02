@@ -1,0 +1,58 @@
+"Develop a unified, single-file Python web application using Streamlit to serve as a complete plant health diagnostic and data analysis tool. The application must integrate two distinct classification modules: one for tabular data analysis and one for image classification.
+
+Files to be integrated/referenced:
+
+synthetic_root_rot_metadata.csv: For tabular analysis and classification.
+
+Image Dataset: A local folder named plant_images/ containing subfolders for each class: healthy, K, N, P, and FN. (50-60 images each).
+
+Required Application Structure and Functionality (All in one app.py file):
+
+1. Tabular Analysis & Classification Module (Sidebar/First Tab)
+A. Data Analysis Dashboard:
+
+Load and process synthetic_root_rot_metadata.csv.
+
+Statistical Analysis: Display basic descriptive statistics for numerical columns (e.g., Soil_Moisture_Percent, Substrate_pH) grouped by the target variable (Root_Rot_Severity).
+
+Visualizations (Mandatory):
+
+Pie Chart: Distribution of the Root_Rot_Severity classes.
+
+Bar Chart: Average Substrate_pH and Substrate_EC_mS_cm for each Root_Rot_Severity level.
+
+Scatter Plot: Soil_Moisture_Percent vs. Days_Since_Planting, color-coded by Root_Rot_Severity.
+
+B. Tabular Input & Classification:
+
+Provide input fields (sliders/number inputs) for the user to enter specific values for: Soil_Moisture_Percent, Root_Zone_Temp_C, Substrate_EC_mS_cm, Substrate_pH, and Days_Since_Planting.
+
+Model: Train a simple classifier (e.g., Scikit-learn's RandomForestClassifier) using the CSV data to predict the Root_Rot_Severity.
+
+Output: Classify the user-entered values and display the predicted severity level.
+
+2. Image Classification Module (Second Tab)
+A. Image Model Training:
+
+Define a basic Convolutional Neural Network (CNN) using TensorFlow/Keras for image classification.
+
+Include the code to load and train the model using images from the plant_images/ directory (ensure data augmentation is included).
+
+Implement a function to save the trained model (e.g., leaf_classifier.h5) after training.
+
+B. User Image Upload and Prediction:
+
+Provide a file uploader component for users to upload a single image (.jpg, .png).
+
+Load the pre-trained (or newly trained) CNN model.
+
+Output 1: Classification: Display the predicted class label (e.g., 'K Deficiency', 'Healthy', 'FN').
+
+Output 2: Remedial Measures (Mandatory): Based on the predicted label, display specific, tailored remedial actions (use placeholder text for this advice).
+
+3. Integrated Dashboard & Remedial Measures
+Ensure the application uses Streamlit Tabs (e.g., 'Data Analysis', 'Image Diagnostics') for clear navigation.
+
+Remedial Measures Placeholder: Include a Python dictionary or function that holds specific remedial advice for each classification outcome (K, N, P, FN Deficiency, and the Severity levels from the CSV analysis) and displays the relevant text clearly upon classification.
+
+Goal: Provide a single, well-commented Python file (app.py) that uses Streamlit and includes all necessary dependencies, functions, model definitions, and visualization code to run the application immediately after uploading the CSV and image data structure."

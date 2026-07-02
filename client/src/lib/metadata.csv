@@ -1,0 +1,55 @@
+Image_ID,Source_Path,Class_Label,Class_Index,Mean_R,Mean_G,Mean_B,Brightness,Hue_Deg,Saturation_Pct,Green_Coverage_Pct,Chlorosis_Ratio,Necrosis_Ratio,Excess_Green_Index,Contrast,Margin_Edge_Density,Edge_Density,Leaf_Area_Ratio,Homogeneity
+hydro_leaf_001.png,demo/healthy/hydro_leaf_001.png,Healthy,0,88.53,137.87,68.84,109.66,112.65,53.83,75.51,0.62,1.04,103.1,31.74,0.055,0.192,0.672,5.13
+hydro_leaf_002.png,demo/healthy/hydro_leaf_002.png,Healthy,0,95.36,154.85,66.78,111.5,109.44,57.22,83.57,4.59,0.26,82.23,26.9,0.064,0.201,0.817,8.85
+hydro_leaf_003.png,demo/healthy/hydro_leaf_003.png,Healthy,0,101.53,146.15,70.52,111.88,108.96,58.16,75.76,0.61,0.48,96.83,28.94,0.077,0.211,0.809,13.17
+hydro_leaf_004.png,demo/healthy/hydro_leaf_004.png,Healthy,0,95.64,146.01,75.26,109.99,105.9,59.43,73.1,0.15,1.12,102.35,26.64,0.09,0.244,0.787,6.71
+hydro_leaf_005.png,demo/healthy/hydro_leaf_005.png,Healthy,0,93.76,142.61,68.95,122.28,103.66,61.84,76.84,0.11,1.53,109.21,27.25,0.066,0.247,0.683,11.05
+hydro_leaf_006.png,demo/healthy/hydro_leaf_006.png,Healthy,0,100.43,145.16,66.23,121.46,104.69,55.32,70.5,1.02,1.01,89.9,30.61,0.063,0.223,0.745,13.05
+hydro_leaf_007.png,demo/healthy/hydro_leaf_007.png,Healthy,0,103.52,146.7,68.89,112.54,103.57,55.04,73.23,0.57,1.07,105.5,26.35,0.097,0.184,0.663,7.92
+hydro_leaf_008.png,demo/healthy/hydro_leaf_008.png,Healthy,0,93.83,154.47,77.88,117.17,113.33,65.63,74.78,4.08,0.75,86.56,29.07,0.082,0.21,0.626,5.88
+hydro_leaf_009.png,demo/healthy/hydro_leaf_009.png,Healthy,0,99.97,155.2,70.02,120.64,114.25,55.18,81.8,4.8,1.22,95.23,28.94,0.062,0.2,0.761,7.59
+hydro_leaf_010.png,demo/healthy/hydro_leaf_010.png,Healthy,0,102.91,136.97,75.93,112.95,107.33,69.51,84.51,2.47,0.06,110.13,33.73,0.079,0.191,0.649,6.02
+hydro_leaf_011.png,demo/healthy/hydro_leaf_011.png,Healthy,0,86.53,146.88,75.78,116.63,115.2,68.27,79.91,2.61,0.12,95.33,30.57,0.072,0.211,0.812,14.83
+hydro_leaf_012.png,demo/healthy/hydro_leaf_012.png,Healthy,0,97.75,132.19,73.9,115.96,103.11,54.15,70.37,3.23,0.77,100.64,32.64,0.071,0.241,0.799,11.65
+hydro_leaf_013.png,demo/healthy/hydro_leaf_013.png,Healthy,0,100.46,150.97,75.61,119.42,102.02,52.89,67.59,1.13,0.91,105.63,27.39,0.07,0.246,0.765,7.21
+hydro_leaf_014.png,demo/healthy/hydro_leaf_014.png,Healthy,0,100.5,143.06,69.59,110.07,116.46,55.92,67.96,2.62,0.53,98.37,26.06,0.072,0.248,0.629,11.91
+hydro_leaf_015.png,demo/healthy/hydro_leaf_015.png,Healthy,0,93.48,155.06,79.2,112.28,107.99,59.24,66.87,2.35,1.82,100.84,32.42,0.068,0.205,0.66,14.98
+hydro_leaf_016.png,demo/healthy/hydro_leaf_016.png,Healthy,0,89.26,146.66,73.58,108.1,113.69,68.04,69.41,1.69,0.58,88.76,31.77,0.051,0.238,0.671,12.74
+hydro_leaf_017.png,demo/healthy/hydro_leaf_017.png,Healthy,0,92.57,154.1,68.04,111.32,105.54,54.5,77.41,0.72,1.88,83.38,28.65,0.071,0.182,0.728,7.83
+hydro_leaf_018.png,demo/healthy/hydro_leaf_018.png,Healthy,0,90.97,151.08,69.01,121.01,115.9,61.04,66.57,3.58,1.53,94.83,32.1,0.1,0.251,0.77,5.06
+hydro_leaf_019.png,demo/k_deficiency/hydro_leaf_019.png,K Deficiency,1,135.02,149.56,76.35,129.4,89.51,57.84,48.77,10.07,21.41,42.44,32.16,0.626,0.299,0.619,11.26
+hydro_leaf_020.png,demo/k_deficiency/hydro_leaf_020.png,K Deficiency,1,145.4,148.83,72.97,129.79,88,51.63,54.59,13.11,33.34,35.3,36.66,0.572,0.233,0.654,10.75
+hydro_leaf_021.png,demo/k_deficiency/hydro_leaf_021.png,K Deficiency,1,144.46,137.72,86.71,127.55,85.35,46.75,47.9,24.71,19.6,45.97,36.77,0.697,0.288,0.565,15.3
+hydro_leaf_022.png,demo/k_deficiency/hydro_leaf_022.png,K Deficiency,1,131.44,144.61,75.7,122.93,84.48,53.73,52.36,24.03,31.31,30.43,34.6,0.621,0.233,0.598,17.62
+hydro_leaf_023.png,demo/k_deficiency/hydro_leaf_023.png,K Deficiency,1,133.46,140.02,77.41,119.22,93.64,54.35,54.03,23.07,32.29,33.7,31.4,0.498,0.281,0.57,9.06
+hydro_leaf_024.png,demo/k_deficiency/hydro_leaf_024.png,K Deficiency,1,132.65,140.88,75.23,131.76,90.48,54.93,55.35,15.93,38.04,34.48,32.33,0.528,0.288,0.571,12.74
+hydro_leaf_025.png,demo/k_deficiency/hydro_leaf_025.png,K Deficiency,1,147.78,146.36,86.3,128.86,91.84,47.62,44.85,24.69,41.32,40.91,33.59,0.591,0.263,0.698,18.5
+hydro_leaf_026.png,demo/k_deficiency/hydro_leaf_026.png,K Deficiency,1,131.59,146.24,74.59,130.37,83.95,52.45,57.04,11.8,28.37,35.89,33.43,0.529,0.288,0.656,8.9
+hydro_leaf_027.png,demo/k_deficiency/hydro_leaf_027.png,K Deficiency,1,146.43,150.59,85.43,131.98,90.98,52.45,47.22,17.76,38.62,29.09,30.2,0.632,0.232,0.627,15.37
+hydro_leaf_028.png,demo/k_deficiency/hydro_leaf_028.png,K Deficiency,1,143.22,142.33,79.49,129.47,88.15,49.94,46.56,21.69,28.32,41.49,39.12,0.601,0.305,0.586,15.56
+hydro_leaf_029.png,demo/k_deficiency/hydro_leaf_029.png,K Deficiency,1,140.88,147.85,76.5,121,92.43,54.75,46.56,18.4,37.15,39.63,30.91,0.612,0.274,0.631,14.6
+hydro_leaf_030.png,demo/k_deficiency/hydro_leaf_030.png,K Deficiency,1,142.54,142.67,84.23,127.34,85.68,53.41,57.61,15.38,36.18,42.92,34.29,0.481,0.294,0.55,12.85
+hydro_leaf_031.png,demo/n_deficiency/hydro_leaf_031.png,N Deficiency,2,145.77,147.04,80.92,133.34,72.68,40.93,40.27,54.12,7.34,29.02,30.07,0.107,0.222,0.692,17.71
+hydro_leaf_032.png,demo/n_deficiency/hydro_leaf_032.png,N Deficiency,2,146.3,150.21,79.89,133.71,80,44.59,35.67,55.9,8.46,19.92,28.34,0.08,0.241,0.596,14.83
+hydro_leaf_033.png,demo/n_deficiency/hydro_leaf_033.png,N Deficiency,2,149.35,147.95,84.07,129.57,71.65,40.69,49.61,53.59,2.4,16.34,29.89,0.097,0.208,0.641,13.94
+hydro_leaf_034.png,demo/n_deficiency/hydro_leaf_034.png,N Deficiency,2,146.17,151.55,80.73,130.82,77.68,48.06,41.92,50.15,6.36,16.52,28.56,0.083,0.223,0.69,10.39
+hydro_leaf_035.png,demo/n_deficiency/hydro_leaf_035.png,N Deficiency,2,136.07,162.87,86.19,128.36,81.5,40.96,47.08,61.18,2.51,17.62,28.37,0.134,0.258,0.692,15.45
+hydro_leaf_036.png,demo/n_deficiency/hydro_leaf_036.png,N Deficiency,2,145.65,151.32,80.37,141.67,68.18,50.87,34.33,46.1,8.5,29.87,30.37,0.1,0.252,0.613,17.98
+hydro_leaf_037.png,demo/n_deficiency/hydro_leaf_037.png,N Deficiency,2,138.17,148.25,91.68,139.57,83.35,39.66,40.92,69.3,8.51,15.3,30.25,0.094,0.261,0.686,15.61
+hydro_leaf_038.png,demo/n_deficiency/hydro_leaf_038.png,N Deficiency,2,136.27,152.28,78.98,130.2,73.6,49.2,39.47,66.39,6.05,26.64,31.97,0.13,0.203,0.657,16
+hydro_leaf_039.png,demo/n_deficiency/hydro_leaf_039.png,N Deficiency,2,144.93,152.14,82.61,135.42,82.44,51.7,35.26,57.51,8.52,13.35,27.68,0.136,0.266,0.689,11.15
+hydro_leaf_040.png,demo/n_deficiency/hydro_leaf_040.png,N Deficiency,2,144.76,153.87,80.27,138.89,75.29,42.21,48.87,49.18,3.28,13.8,26.71,0.108,0.28,0.676,17.12
+hydro_leaf_041.png,demo/n_deficiency/hydro_leaf_041.png,N Deficiency,2,145.08,146.6,82.15,131.69,76.74,38.24,48.42,54,5.09,27.47,24.45,0.11,0.207,0.62,12.45
+hydro_leaf_042.png,demo/n_deficiency/hydro_leaf_042.png,N Deficiency,2,143.07,155.23,79.07,135.7,78.51,49.72,49.34,71.68,5.17,26.07,24.06,0.1,0.246,0.654,19.38
+hydro_leaf_043.png,demo/p_deficiency/hydro_leaf_043.png,P Deficiency,3,130.12,113.15,97.28,124.17,78.18,55.2,35.31,13.82,51.71,3.77,39.36,0.252,0.357,0.612,20.13
+hydro_leaf_044.png,demo/p_deficiency/hydro_leaf_044.png,P Deficiency,3,121.89,115.94,105.51,113.08,57.71,60.95,40.41,10.69,50.32,-3.71,34.88,0.247,0.296,0.56,22.62
+hydro_leaf_045.png,demo/p_deficiency/hydro_leaf_045.png,P Deficiency,3,122.17,112.62,100.9,111.94,75.54,49.52,35.89,7.55,53.06,9.01,31.06,0.221,0.284,0.65,17.57
+hydro_leaf_046.png,demo/p_deficiency/hydro_leaf_046.png,P Deficiency,3,126.34,121.14,94.63,118.27,75.5,61.35,34.02,17.18,40.98,-6.78,32.35,0.161,0.354,0.508,14.56
+hydro_leaf_047.png,demo/p_deficiency/hydro_leaf_047.png,P Deficiency,3,134.22,123.27,94.24,119.7,59.36,57.41,34.37,10.19,49.77,2.65,34.82,0.294,0.306,0.493,18.24
+hydro_leaf_048.png,demo/p_deficiency/hydro_leaf_048.png,P Deficiency,3,119.46,117.85,98.16,119.93,63.23,58.54,31.71,11.11,45.56,-3.43,40.2,0.27,0.267,0.565,13.14
+hydro_leaf_049.png,demo/p_deficiency/hydro_leaf_049.png,P Deficiency,3,129.12,119.65,98.46,111.51,56.93,47.78,38.28,18.05,32.87,-2.44,38.59,0.293,0.308,0.568,12.72
+hydro_leaf_050.png,demo/p_deficiency/hydro_leaf_050.png,P Deficiency,3,124.19,113.62,96.99,120.08,59.28,56.81,32.6,9.3,37.72,9.24,33.23,0.29,0.315,0.547,22.91
+hydro_leaf_051.png,demo/p_deficiency/hydro_leaf_051.png,P Deficiency,3,131.19,114.52,102.66,118.95,81.05,48.21,36.93,14.8,30.6,-0.43,35.74,0.24,0.306,0.508,24.1
+hydro_leaf_052.png,demo/p_deficiency/hydro_leaf_052.png,P Deficiency,3,126.24,127.25,95.38,114.5,57.97,53.39,38.91,17.84,42.22,-5.41,35.52,0.154,0.308,0.585,23.3
+hydro_leaf_053.png,demo/p_deficiency/hydro_leaf_053.png,P Deficiency,3,125.55,118.43,94.15,118.58,80.79,61.69,35.4,11.18,51.01,7.62,36.27,0.195,0.296,0.626,19.34
+hydro_leaf_054.png,demo/p_deficiency/hydro_leaf_054.png,P Deficiency,3,118.16,120.32,106.52,116.77,68.16,58.21,31.21,6.31,38.09,-3.29,34.05,0.169,0.335,0.505,18.71
